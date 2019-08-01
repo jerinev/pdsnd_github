@@ -2,10 +2,12 @@
 7/31/2019
 
 ### Project Title
-Replace the Project Title
+US Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+The project will calculate statistics U.S. bikeshare data. It is an interactive environment where user chooses data 
+and filter for a dataset.
+
 
 ### Files used
 Include the files used
