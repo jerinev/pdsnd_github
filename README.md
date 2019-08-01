@@ -6,7 +6,7 @@ US Bikeshare data
 
 ### Description
 The project will calculate statistics U.S. bikeshare data. It is an interactive environment where user chooses data 
-and filter for a dataset.
+and filter for a dataset. This is a proram developed in Python.
 
 
 ### Files used
