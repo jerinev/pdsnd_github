@@ -1,17 +1,17 @@
 ### Date created
-8/1/2019
+8/2/2019
 
 ### Project Title
 US Bikeshare data
 
 ### Description
 The project will calculate statistics U.S. bikeshare data. It is an interactive environment where user chooses data 
-and filter for a dataset. This is a proram developed in Python.
+and filter for a dataset. This is a program developed in Python. Program name is bikeshare.py
 
 
 ### Files used
 3 data files were used: chicago.csv, new_york_city.csv,washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://try.github.io/
 
