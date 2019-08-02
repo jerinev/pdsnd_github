@@ -13,5 +13,5 @@ and filter for a dataset. This is a program developed in Python. Program name is
 3 data files were used: chicago.csv, new_york_city.csv,washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://try.github.io/
 
